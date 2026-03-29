@@ -27,7 +27,7 @@ follow this steps
 ```bash
 dotnet tool install --global dotnet-ef --version 10.*
 ```
-note: Check your dotnet version using
+note: Check your dotnet current version
 ```bash
 dotnet --version
 ```
